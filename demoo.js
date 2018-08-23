@@ -1,1 +1,2 @@
-var a = 123
+var b = 'hello'
+var a = 123;
