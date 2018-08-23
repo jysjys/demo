@@ -1,1 +1,1 @@
-var a = 'hello'
+var a = 111;
