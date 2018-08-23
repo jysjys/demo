@@ -1,1 +1,1 @@
-var a = 111;
+var a = 'demo3'
